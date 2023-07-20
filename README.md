@@ -5,5 +5,5 @@
 - `git push`
 
 
-* ### [Git Command Line Cheats](gitcheats.md)
-* ### [Markdown syntax](./markdown.md)
+* ### [Git Command Line Cheats](Gitcheats.md)
+* ### [Markdown syntax](markdown.md)
